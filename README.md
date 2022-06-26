@@ -23,5 +23,4 @@ If you use a venv, make sure to ```cd``` to the directoy you have the venv and t
 
 # What I've tested this on:
 I have tested and confirmed this working on: 
-+ x86 Ubuntu (Ubuntu Studio 21.10) 
-+ Operating System: Ubuntu Studio 21.10, kernel 5.13.0-52-lowlatency (64-bit))
++ x86 Ubuntu (Ubuntu Studio 21.10, kernel 5.13.0-52-lowlatency (64-bit))
