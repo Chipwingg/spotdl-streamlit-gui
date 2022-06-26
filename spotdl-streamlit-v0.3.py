@@ -28,7 +28,7 @@ outFormat = st.text_input("Output format: ", "'{artist}/{album}/{title} - {artis
 
 
 
-THE_COMMAND = (f"spotdl {link} --output-format {songFormat} --path-template {outFormat} --output {downLocation}")
+THE_COMMAND = f"spotdl {link} --output-format {songFormat} --path-template {outFormat} --output {downLocation}"
 
 if(st.button("run command")):
     # print(f"spotdl {link} --output-format {songFormat} --path-template {outFormat} --output {downLocation}")
