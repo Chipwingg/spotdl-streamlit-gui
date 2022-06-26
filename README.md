@@ -13,7 +13,7 @@ I have spotdl installed globally on my machine. I install streamlit in a venv.
 
 If you use a venv, make sure to ```cd``` to the directoy you have the venv and the .py file. Then run `source .venv/bin/activate` to use it. 
 
-# Instructions to run spotdl-streamlit-gui
+
 
 1.) cd to the directory you saved the file to. 
 
